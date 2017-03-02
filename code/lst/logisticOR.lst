@@ -1,0 +1,13 @@
+                             The LOGISTIC Procedure
+ 
+                             Odds Ratio Estimates
+ 
+                                                    Point         95% Wald
+Effect                                           Estimate     Confidence Limits
+ 
+Age           30-44 vs 18-29                        1.566      0.941      2.605
+Age           45-60 vs 18-29                        1.232      0.730      2.079
+Age           > 60  vs 18-29                        2.190      1.218      3.936
+Gender        Fema vs Male                          1.402      0.970      2.026
+college       College degree vs No college deg      1.027      0.705      1.497
+Star_Trek_fan No vs Yes                             1.194      0.818      1.742
